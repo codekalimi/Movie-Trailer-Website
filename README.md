@@ -1,4 +1,4 @@
-# Movie Trailer Website
+# Movies Trailer Website:
 
 This is the first project of the [Full Stack Web Developer Nanodegree](https://in.udacity.com/course/full-stack-web-developer-nanodegree--nd004/?). 
 
@@ -27,7 +27,7 @@ The following instructions assume you have Python installed. If not, install [Py
 `python entertainment_center.py`
 
 
-## Project Rubric
+## Project Rubric:
 
 |SECTION|CRITERIA|SPECS. MET?|
 |---|---|---|
